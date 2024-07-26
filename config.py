@@ -11,7 +11,7 @@ API_HASH = "1784e0b77aa020165687f59f573ac783"
 BOT_TOKEN = "7237043913:AAH531b1m0ywz33zX-OgBE2dGl_7n6FenHk"
 MONGO_DB_URI = "mongodb+srv://kakarot6060:kakarot6060@cluster0.lgzyjfm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
-LOG_GROUP_ID = -1002229322982
+LOG_GROUP_ID = -1002147625936
 OWNER_ID = 6269731241
 
 ## Fill these variables if you're deploying on heroku.
